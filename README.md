@@ -73,5 +73,5 @@ windows-ad-enterprise-lab/
 
 ## 📧 Contact
 
-For questions or feedback, reach out via GitHub Issues or connect on [https://www.linkedin.com/in/liran-karen/](https://www.linkedin.com/in/liran-karen/)
+For questions or feedback, reach out via GitHub Issues or connect on [LinkedIn](https://www.linkedin.com/in/liran-karen/)
 
