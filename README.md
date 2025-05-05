@@ -33,3 +33,45 @@ windows-ad-enterprise-lab/
 │   └── logon-script.bat
 └── exports/
     └── gpo-policies.txt
+
+## ⚙️ Key Configurations
+
+- **OUs:** Created for departments (e.g., HR, IT, Finance)
+- **GPOs:** Enforced password policy, desktop settings, software restrictions
+- **Logon Scripts:** Mapped network drives per user group
+- **DNS & DHCP:** Configured with static IP reservations and forward lookup zones
+- **Permissions:** Role-based folder access using security groups
+
+## 🛡️ Security Best Practices Applied
+
+- Enforced complex passwords and lockout policy
+- Disabled guest accounts
+- Used separate Admin and User accounts
+- Auditing enabled for logon and file access events
+- Group-based delegation and access control
+
+> All steps documented in [documentation/setup-steps.md](documentation/setup-steps.md)
+
+## 🛠️ Tools & Technologies
+
+- Windows Server 2022
+- Windows 10 Clients
+- Active Directory, DNS, DHCP, GPO
+- PowerShell, VirtualBox/VMware/Hyper-V
+
+## 📘 Documentation
+
+- [Setup Instructions](documentation/setup-steps.md)
+- [Example GPOs](documentation/gpo-examples.md)
+- [Security Best Practices](documentation/security-best-practices.md)
+
+## 📌 Notes
+
+- The lab was built using local virtual machines for a fully offline setup
+- All configurations follow real-world IT standards
+- Screenshots, exports, and sample scripts included
+
+## 📧 Contact
+
+For questions or feedback, reach out via GitHub Issues or connect on [LinkedIn](https://www.linkedin.com/in/liran-karen/)
+
