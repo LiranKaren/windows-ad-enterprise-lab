@@ -71,7 +71,4 @@ windows-ad-enterprise-lab/
 - All configurations follow real-world IT standards
 - Screenshots, exports, and sample scripts included
 
-## 📧 Contact
-
-For questions or feedback, reach out via GitHub Issues or connect on [LinkedIn](https://www.linkedin.com/in/liran-karen/)
 
