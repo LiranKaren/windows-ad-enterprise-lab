@@ -79,7 +79,7 @@ This lab simulates an enterprise Active Directory environment using Windows Serv
 - Join the domain: corp.local
 - Log in using domain user credentials to verify successful domain join and policy application
 
-🖼️ ![PC1 Joined to Domain](screenshots/pc1-joined-the-domain.png)
+🖼️ ![PC1 Joined to Domain](screenshots/pc1-joined-the domain.png)
 
 ---
 
