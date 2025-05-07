@@ -27,7 +27,7 @@ This lab simulates an enterprise Active Directory environment using Windows Serv
   lab.local
 - Configure the DHCP scope and activate it
 
-🖼️ ![DHCP Scope Configuration](screenshots/scope.png)
+🖼️ ![DHCP Scope Configuration](screenshots/Scope.png)
 
 ---
 
@@ -48,7 +48,7 @@ This lab simulates an enterprise Active Directory environment using Windows Serv
   - Finance
 - Create users and groups within each OU
 
-🖼️ ![OU Structure](screenshots/OU-structure.png)
+🖼️ ![OU Structure](screenshots/OU-Structure.png)
 
 ---
 
@@ -58,7 +58,7 @@ This lab simulates an enterprise Active Directory environment using Windows Serv
 - Use Group Policy Preferences → Windows Settings → Drive Maps
 - Apply based on security group membership
 
-🖼️ ![GPO Drive Mapping](screenshots/GPO-Drive-mapping.png)
+🖼️ ![GPO Drive Mapping](screenshots/GPO-Drive-Mapping.png)
 
 ---
 
